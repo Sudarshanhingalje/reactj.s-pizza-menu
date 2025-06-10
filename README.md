@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# 🍕 Fast React Pizza Menu
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive and interactive **React.js pizza menu app**, built as part of my hands-on learning journey.  
+This project focuses on component-based architecture, conditional rendering, and basic JSX styling.
 
-## Available Scripts
+🔗 **Live Demo**: [https://fastreact-pizza-menu.netlify.app](https://fastreact-pizza-menu.netlify.app)  
+📁 **Source Code**: [https://github.com/Sudarshanhingalje/reactj.s-pizza-menu](https://github.com/Sudarshanhingalje/reactj.s-pizza-menu)
+![Screenshot 2025-06-11 001003](https://github.com/user-attachments/assets/fdc7f002-3acf-4cb9-9f66-fdad03f23bbe)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- ✅ Displays a dynamic list of pizzas from a JSON-style array
+- ✅ Conditional rendering for sold-out pizzas
+- ✅ Basic layout with reusable components
+- ✅ Custom formatting using props and conditional classes
+- ✅ Responsive design using modern CSS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📚 What I Learned
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project helped reinforce:
+- 🔹 React component structure and reusability
+- 🔹 JSX and inline conditional rendering
+- 🔹 Styling components using CSS classes dynamically
+- 🔹 Clean code organization and file management
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Technologies Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5 & CSS3**
+- **Netlify** (for deployment)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🛠️ Getting Started
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Prerequisites
+- Node.js (v14 or above)
+- npm
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Installation Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sudarshanhingalje/reactj.s-pizza-menu.git
+  Navigate to the project folder:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+bash
+Copy
+Edit
+cd reactj.s-pizza-menu
+Install dependencies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+bash
+Copy
+Edit
+npm install
+Start the development server:
 
-## Learn More
+bash
+Copy
+Edit
+npm start
+The app will run at http://localhost:3000
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+🌐 Deployment
+This app is deployed using Netlify and can be accessed live at:
+👉 https://fastreact-pizza-menu.netlify.app
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🙋‍♂️ About Me
+I’m Sudarshan Kalgonda Hingalje, a passionate developer constantly learning and building with React.
+Actively seeking roles in Front-End Development and React.js.
 
-### Code Splitting
+📧 sudarshanhingalje1@gmail.com
+🔗 LinkedIn
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ Support
+If you liked this project, feel free to ⭐ the repo and share your feedback!
